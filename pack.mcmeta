@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 9,
+    "pack_format": 10,
     "description": "Silence mobs with name tags"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
